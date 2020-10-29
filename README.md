@@ -1,4 +1,5 @@
 ### Hi there 👋
+Soy un entusiasta de las tecnologías libres y del desarrollo
 
 <!--
 **ojag95/ojag95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

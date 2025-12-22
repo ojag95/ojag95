@@ -32,9 +32,9 @@ Usuario de **GNU/Linux** desde hace más de 10 años. 🐧
 <p align="left">
 
   ![Calendario Isométrico](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojag95&theme=gotham)
-  <img src="https://github-readme-stats.vercel.app/api?username=ojag95&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Tus estadísticas" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ojag95&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Tus estadísticas" width="80%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojag95&layout=compact&theme=gotham&hide_border=true" alt="Lenguajes más usados" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojag95&layout=compact&theme=gotham&hide_border=true" alt="Lenguajes más usados" width="80%" />
 </p>
 
 ---

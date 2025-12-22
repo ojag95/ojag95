@@ -3,10 +3,9 @@
 
 ### Senior Fullstack Developer | MERN & React Native
 
-
 ¡Bienvenido a mi perfil! Llevo más de **6 años** construyendo aplicaciones web y móviles escalables. Soy un apasionado del código limpio, la arquitectura de software y el ecosistema Open Source.
 
-Usuario de **GNU/Linux** desde hace más de 10 años. La terminal es mi segundo hogar. 🐧
+Usuario de **GNU/Linux** desde hace más de 10 años. 🐧
 
 ---
 
@@ -29,23 +28,20 @@ Usuario de **GNU/Linux** desde hace más de 10 años. La terminal es mi segundo 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-### Estadisticas
+### Estadísticas
 <p align="left">
 
   ![Calendario Isométrico](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojag95&theme=gotham)
   <img src="https://github-readme-stats.vercel.app/api?username=ojag95&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Tus estadísticas" width="100%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojag95&layout=compact&theme=gotham&hide_border=true" alt="Lenguajes más usados" width="100%" />
-
-
 </p>
-
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **Arquitectura de microservicios y Apps móviles**.
-- 🐧 **Linux:** Uso Debian y Arch linux como mi daily driver. 
+- 🔭 Actualmente estoy trabajando en **Aplicaciones web, Apps móviles y Arquitectura de microservicios**.
+- 🐧 **Linux:** Uso Debian y Arch linux como mis sistemas operativos de uso diario. 
 - 💬 Pregúntame sobre **React, React Native, Node.js o Scripting en Bash.**.
 - 📫 Cómo contactarme: [ojag95@gmail.com](mailto:ojag95@gmail.com) | [LinkedIn](https://linkedin.com/in/ojag95)
